@@ -1,0 +1,17 @@
+{
+  "name": "hydrogen",
+  "version": "1.0.0",
+  "description": "The JSR playground for packages",
+  "scripts": {
+    "commit": "npx cz"
+  },
+  "devDependencies": {
+    "commitizen": "4.3.0",
+    "cz-conventional-changelog": "3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
