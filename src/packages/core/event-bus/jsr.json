@@ -1,5 +1,5 @@
 {
   "name": "@hydrogen/event-bus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "exports": "./event-bus.ts"
 }
